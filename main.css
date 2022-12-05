@@ -1,0 +1,8 @@
+.header {
+  display: flex;
+}
+
+.header__nav {
+  display: flex;
+  gap: 1rem;
+}
